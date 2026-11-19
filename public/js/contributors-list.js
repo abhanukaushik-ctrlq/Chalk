@@ -29,4 +29,9 @@ export const contributors = [
     url: 'https://github.com/me-Rishik',
     peep: 'idea',
   }
+  {
+    name: "A. Bhanu Kaushik",
+    url: "https://github.com/abhanukaushik-ctrlq",
+    peep: "coffee"
+  }
 ];
